@@ -1,0 +1,4 @@
+
+import mytestproject
+
+mytestproject.printer()
